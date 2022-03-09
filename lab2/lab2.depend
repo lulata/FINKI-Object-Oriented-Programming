@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1616091418 source:d:\proekti\c++\lab2\aud2.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
+1616085695 source:d:\proekti\c++\lab2\zad1.c
+
+1616540996 source:d:\proekti\c++\lab2\zad1.cpp
+	<iostream>
+
+1616085701 source:d:\proekti\c++\lab2\zad2.c
+
+1616541034 source:d:\proekti\c++\lab2\zad2.cpp
+	<iostream>
+
+1616541014 source:d:\proekti\c++\lab2\zad3.cpp
+	<iostream>
+	<cstring>
+
+1616541481 source:d:\proekti\c++\lab2\main.cpp
+	<iostream>
+	<cstring>
+

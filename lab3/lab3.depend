@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1616715202 source:d:\proekti\c++\lab3\zad1.cpp
+	<iostream>
+	<cstring>
+
+1616723094 source:d:\proekti\c++\lab3\zad2.cpp
+
+1616717886 source:d:\proekti\c++\lab3\zad3.cpp
+	<iostream>
+	<cstring>
+
+1616719285 source:d:\proekti\c++\lab3\zad4.cpp
+	<iostream>
+	<cstring>
+
+1616709696 source:d:\proekti\c++\lab3\zad5.cpp
+
+1616723094 source:d:\proekti\c++\lab3\main.cpp
+	<iostream>
+	<cstring>
+
